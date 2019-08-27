@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TeamTaleApi:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89c02029-9ab9-4cbc-86d1-10a291777a34" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TeamTaleApi$RequesterSystemRecommendListApi.coverage" NAME="RequesterSystemRecommendListApi Coverage Results" MODIFIED="1496913838055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.work.api.v3.miai.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TeamTaleApi$SecretUtils.coverage" NAME="SecretUtils Coverage Results" MODIFIED="1524129295061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.work.common.md5.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TeamTaleApi" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1PxLWDcDAOqDjmtn3pgh2aIoDlO" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Bean Validation issues</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GPath inspectionsGroovy</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Method MetricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>Tapestry</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringKotlinAutowiring</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="TbBlSupport&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TbBlSupportMapper.xml&#10;TbBlReply&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TbBlReplyMapper.xml&#10;TbBlBlogFollow&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TbBlBlogFollowMapper.xml&#10;TSysUserinfo&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TSysUserinfoMapper.xml&#10;ActivityUserCommentListApi&#9;PSI&#9;JAVA://com.work.api.v3.activity.RequesterActivityUserCommentListApi&#10;bankCircleMapper.xml&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TBankCircleMapper.xml&#10;dateu&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/common/DateUtil.java&#10;TBUserDatingInfo&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/entity/dating/TBUserDatingInfo.java&#10;TbUserDatingPublic&#9;PSI&#9;JAVA://com.work.entity.dating.TbUserDatingPublic&#10;DateU&#9;PSI&#9;JAVA://com.work.common.DateUtil&#10;sugg&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TSuggetstMapper.xml&#10;sug&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TSugInfoMapper.xml&#10;TSugInfoMapper&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TSugInfoMapper.xml&#10;JXServiceDocMDController&#9;PSI&#9;JAVA://cn.autually.base.JXServiceDocMDController&#10;sug.xml&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TSugInfoMapper.xml&#10;listMySuggest&#9;PSI&#9;JAVA://com.work.api.v2.SuggestController#listMySuggest&#10;sugInfoMapper&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TSugInfoMapper.xml&#10;pariseMapp&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TBankCirclePariseMapper.xml&#10;bankCircleMapper&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TBankCircleMapper.xml&#10;TExamMapper.xml&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TExamMapper.xml&#10;BankC&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TBankCircleMapper.xml&#10;exammapper&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TExamMapper.xml&#10;examMa&#9;PSI&#9;JAVA://com.work.mapper.TExamMapper&#10;TbSugApproveMapper&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TbSugApproveMapper.xml&#10;TExamMapper&#9;FILE&#9;file:///Users/changzhou/Documents/project_2017/chinabank_web_v2/TeamTaleApp/src/main/java/com/work/mapper/xml/TExamMapper.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545983769774" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Oracle" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32205883" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.work.api.v3" />
+      <recent name="com.work.api" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.work.mapper" />
+      <recent name="com.work.mapper.xml" />
+      <recent name="com.work.api.v3.miai.vo" />
+      <recent name="com.work.entity" />
+      <recent name="com.work.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\app开发\TeamTaleApp\src\main\java\com\work\common" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/work/mapper/xml" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/work/entity" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/autually/base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.TeamTaleApi">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequesterAddSugInfoApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.work.api.v3.suginfo.RequesterAddSugInfoApi" />
+      <module name="TeamTaleApi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.work.api.v3.suginfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequesterSugInfoMyApplyApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.work.api.v3.suginfo.RequesterSugInfoMyApplyApi" />
+      <module name="TeamTaleApi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.work.api.v3.suginfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuggestController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.work.api.v2.SuggestController" />
+      <module name="TeamTaleApi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.work.api.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TSuggestService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.work.service.TSuggestService" />
+      <module name="TeamTaleApi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.work.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deploy.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="TeamTaleApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/expect" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deploy.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamTaleApi" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.79" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/app/v2/archives/maths/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="TeamTaleApi:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_TeamTaleApi" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54747" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TeamTaleApi:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.RequesterSugInfoMyApplyApi" />
+      <item itemvalue="Application.TSuggestService" />
+      <item itemvalue="Application.RequesterAddSugInfoApi" />
+      <item itemvalue="Application.SuggestController" />
+      <item itemvalue="Tomcat Server.TeamTaleApi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RequesterSugInfoMyApplyApi" />
+        <item itemvalue="Application.SuggestController" />
+        <item itemvalue="Application.TSuggestService" />
+        <item itemvalue="Application.RequesterAddSugInfoApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89c02029-9ab9-4cbc-86d1-10a291777a34" name="Default" comment="" />
+      <created>1490703124098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490703124098</updated>
+      <workItem from="1490703126667" duration="1021000" />
+      <workItem from="1490704198570" duration="9102000" />
+      <workItem from="1490748370782" duration="8805000" />
+      <workItem from="1490761721789" duration="769000" />
+      <workItem from="1490762807433" duration="2176000" />
+      <workItem from="1490768642218" duration="2513000" />
+      <workItem from="1490771694911" duration="7245000" />
+      <workItem from="1490837409194" duration="585000" />
+      <workItem from="1490838784353" duration="1061000" />
+      <workItem from="1490843341177" duration="1096000" />
+      <workItem from="1490845360449" duration="240000" />
+      <workItem from="1490845693095" duration="10715000" />
+      <workItem from="1490876518205" duration="3704000" />
+      <workItem from="1490925754542" duration="2627000" />
+      <workItem from="1490928474302" duration="6324000" />
+      <workItem from="1490942041706" duration="605000" />
+      <workItem from="1490943304368" duration="5700000" />
+      <workItem from="1490952530126" duration="190000" />
+      <workItem from="1490966921323" duration="2090000" />
+      <workItem from="1491012299096" duration="761000" />
+      <workItem from="1491376053691" duration="325000" />
+      <workItem from="1491376432876" duration="3770000" />
+      <workItem from="1491383583126" duration="2790000" />
+      <workItem from="1491532739418" duration="5977000" />
+      <workItem from="1491547697377" duration="8252000" />
+      <workItem from="1491788500968" duration="4660000" />
+      <workItem from="1491802490211" duration="3350000" />
+      <workItem from="1491814384520" duration="13508000" />
+      <workItem from="1492066333687" duration="11399000" />
+      <workItem from="1492081101946" duration="2152000" />
+      <workItem from="1492222965822" duration="3030000" />
+      <workItem from="1492232622277" duration="8106000" />
+      <workItem from="1492401035226" duration="8151000" />
+      <workItem from="1492488565702" duration="7407000" />
+      <workItem from="1492564523133" duration="22906000" />
+      <workItem from="1492763635829" duration="1933000" />
+      <workItem from="1492779006214" duration="5248000" />
+      <workItem from="1493084462659" duration="8752000" />
+      <workItem from="1493103608061" duration="11062000" />
+      <workItem from="1493301128532" duration="5257000" />
+      <workItem from="1493307804030" duration="40000" />
+      <workItem from="1493345535087" duration="3146000" />
+      <workItem from="1493693719681" duration="15655000" />
+      <workItem from="1493774873125" duration="21285000" />
+      <workItem from="1493904043757" duration="9542000" />
+      <workItem from="1494309789700" duration="4202000" />
+      <workItem from="1494380657121" duration="1401000" />
+      <workItem from="1494465201061" duration="458000" />
+      <workItem from="1494514351320" duration="565000" />
+      <workItem from="1494568314906" duration="832000" />
+      <workItem from="1495086410798" duration="3808000" />
+      <workItem from="1495418978422" duration="1026000" />
+      <workItem from="1495443319964" duration="1314000" />
+      <workItem from="1495524570341" duration="3473000" />
+      <workItem from="1495617230478" duration="5679000" />
+      <workItem from="1495683448956" duration="1557000" />
+      <workItem from="1495778291158" duration="1239000" />
+      <workItem from="1495793696467" duration="1829000" />
+      <workItem from="1496212530281" duration="607000" />
+      <workItem from="1496720034727" duration="1651000" />
+      <workItem from="1496815926132" duration="650000" />
+      <workItem from="1496913088028" duration="2063000" />
+      <workItem from="1497258315266" duration="1546000" />
+      <workItem from="1497316224812" duration="953000" />
+      <workItem from="1497863291874" duration="602000" />
+      <workItem from="1498124844800" duration="654000" />
+      <workItem from="1498463043026" duration="787000" />
+      <workItem from="1498535208670" duration="3797000" />
+      <workItem from="1498792652798" duration="1331000" />
+      <workItem from="1500296207262" duration="1901000" />
+      <workItem from="1500350984916" duration="41000" />
+      <workItem from="1500866820908" duration="722000" />
+      <workItem from="1500946631530" duration="657000" />
+      <workItem from="1500949549592" duration="1356000" />
+      <workItem from="1515053191250" duration="26377000" />
+      <workItem from="1515652464931" duration="4231000" />
+      <workItem from="1515728582999" duration="18000" />
+      <workItem from="1515728640428" duration="8570000" />
+      <workItem from="1515981614971" duration="915000" />
+      <workItem from="1522725918366" duration="5761000" />
+      <workItem from="1523853585843" duration="24908000" />
+      <workItem from="1524708109708" duration="13516000" />
+      <workItem from="1524879023246" duration="531000" />
+      <workItem from="1526459719088" duration="5144000" />
+      <workItem from="1527134368395" duration="3992000" />
+      <workItem from="1527218052073" duration="7000" />
+      <workItem from="1531287656526" duration="1585000" />
+      <workItem from="1531462729653" duration="139000" />
+      <workItem from="1532065216281" duration="835000" />
+      <workItem from="1533270055294" duration="942000" />
+      <workItem from="1535004755952" duration="5005000" />
+      <workItem from="1535426588867" duration="9101000" />
+      <workItem from="1535533738177" duration="602000" />
+      <workItem from="1535966813026" duration="36874000" />
+      <workItem from="1536815278340" duration="494000" />
+      <workItem from="1537864451794" duration="924000" />
+      <workItem from="1537934464591" duration="3739000" />
+      <workItem from="1545729323573" duration="1444000" />
+      <workItem from="1545785345928" duration="17036000" />
+      <workItem from="1545871792277" duration="6818000" />
+      <workItem from="1545926434002" duration="159000" />
+      <workItem from="1545957603735" duration="9709000" />
+      <workItem from="1566786756015" duration="4906000" />
+      <workItem from="1566794049262" duration="263000" />
+      <workItem from="1566794924103" duration="7270000" />
+      <workItem from="1566802648466" duration="1287000" />
+      <workItem from="1566803962067" duration="1264000" />
+      <workItem from="1566810836897" duration="2171000" />
+      <workItem from="1566813267882" duration="4791000" />
+      <workItem from="1566868231591" duration="5415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/work/api/v2/CrowController.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

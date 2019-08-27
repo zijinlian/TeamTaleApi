@@ -1,0 +1,8 @@
+
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(’ŽŠ¼ûÿÿÿÿ
+gsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(»Ì¦°þÿÿÿÿ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(Êà¶õýÿÿÿÿ
+Ysquid:S1126«"AReplace this if-then-else statement by a single return statement.(Êã¾¿
+vsquid:S14886"_Immediately return this expression instead of assigning it to the temporary variable "alllist".(ÔÏ£
+xsquid:S1488H"\Immediately return this expression instead of assigning it to the temporary variable "list".(””Ò†ùÿÿÿÿ
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç±¦ìüÿÿÿÿ

@@ -1,0 +1,41 @@
+
+nsquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+@squid:S1148ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ysquid:S2629Æ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ğ›ãüüÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+Jsquid:S1135"2Complete the task associated to this TODO comment.(æ‰ºò
+@squid:S1148¢"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+jsquid:S1192y"SDefine a constant instead of duplicating this literal "è¯·æ±‚å‚æ•°å¼‚å¸¸" 7 times.(£µ‹
+Jsquid:S1135ò"2Complete the task associated to this TODO comment.(æ‰ºò
+@squid:S1148ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135±"2Complete the task associated to this TODO comment.(æ‰ºò
+Jsquid:S1135Í"2Complete the task associated to this TODO comment.(æ‰ºò
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+osquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+isquid:S1192Ê"LDefine a constant instead of duplicating this literal "discussions" 3 times.(²çØÉùÿÿÿÿ
+osquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+@squid:S1148»"#Use a logger to log this exception.(•ÅÁşÿÿÿÿ
+@squid:S1148à"#Use a logger to log this exception.(•ÅÁşÿÿÿÿ
+osquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+@squid:S1148à"#Use a logger to log this exception.(•ÅÁşÿÿÿÿ
+@squid:S1148ü"#Use a logger to log this exception.(•ÅÁşÿÿÿÿ
+?squid:S1148x"#Use a logger to log this exception.(•ÅÁşÿÿÿÿ
+Isquid:S1135A"2Complete the task associated to this TODO comment.(æ‰ºò
+isquid:S3776@"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Œîá
+squid:S1192|"cDefine a constant instead of duplicating this literal "æœåŠ¡å™¨å¼‚å¸¸,è¯·è”ç³»ç®¡ç†å‘˜" 8 times.(€Ñö“üÿÿÿÿ
+^squid:S3457Æ"AFormat specifiers should be used instead of string concatenation.(Ğ›ãüüÿÿÿÿ
+gsquid:S1192D"KDefine a constant instead of duplicating this literal "req_params" 8 times.(ÇŠšüÿÿÿÿ
+Jsquid:S1135ó"2Complete the task associated to this TODO comment.(æ‰ºò
+Usquid:S1155k">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©İªš
+@squid:S1148"#Use a logger to log this exception.(•ÅÁşÿÿÿÿ
+@squid:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Ysquid:S3457¸"AFormat specifiers should be used instead of string concatenation.(ÆÒşˆ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+@squid:S1148û"#Use a logger to log this exception.(•ÅÁşÿÿÿÿ
+Jsquid:S1135±"2Complete the task associated to this TODO comment.(æ‰ºò

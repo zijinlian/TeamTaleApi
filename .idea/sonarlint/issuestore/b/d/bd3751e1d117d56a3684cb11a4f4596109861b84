@@ -1,0 +1,29 @@
+
+msquid:S3008"QRename this field "Server" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ó˜ƒýÿÿÿÿ
+rsquid:S3008"VRename this field "API_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µœ¾ëøÿÿÿÿ
+msquid:S3008"VRename this field "UPLOAD_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’œÚˆ
+xsquid:S3008"\Rename this field "REQUESTER_PACKAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶ûÃÿÿÿÿÿ
+Csquid:S1444"'Make this "public static g" field final(¯±ûŽÿÿÿÿÿ
+Hsquid:S1444",Make this "public static Server" field final(´Ó˜ƒýÿÿÿÿ
+Msquid:S1444"1Make this "public static API_VERSION" field final(µœ¾ëøÿÿÿÿ
+Hsquid:S1444"1Make this "public static UPLOAD_FILE" field final(’œÚˆ
+Ssquid:S1444"7Make this "public static REQUESTER_PACKAGE" field final(Ñ¶ûÃÿÿÿÿÿ
+Fsquid:S1444"/Make this "public static apiEnable" field final(ê¹Œú
+Isquid:S1444"2Make this "public static requesterMap" field final(ÐÌŸÝ
+Hsquid:S1444",Make this "public static format" field final(®ïò—ùÿÿÿÿ
+?squid:S2885"#Make "format" an instance variable.(®ïò—ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–îÎ¬
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â‡ôûÿÿÿÿ
+ squid:S1319"ˆThe type of the "requesterMap" object should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ÐÌŸÝ
+€"squid:ClassVariableVisibilityCheck"MMake g a static final constant or non-public and provide accessors if needed.(¯±ûŽÿÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"RMake Server a static final constant or non-public and provide accessors if needed.(´Ó˜ƒýÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake API_VERSION a static final constant or non-public and provide accessors if needed.(µœ¾ëøÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"WMake UPLOAD_FILE a static final constant or non-public and provide accessors if needed.(’œÚˆ
+"squid:ClassVariableVisibilityCheck"]Make REQUESTER_PACKAGE a static final constant or non-public and provide accessors if needed.(Ñ¶ûÃÿÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"UMake apiEnable a static final constant or non-public and provide accessors if needed.(ê¹Œú
+†"squid:ClassVariableVisibilityCheck"XMake requesterMap a static final constant or non-public and provide accessors if needed.(ÐÌŸÝ
+‚"squid:ClassVariableVisibilityCheck"OMake obj a static final constant or non-public and provide accessors if needed.(”’ð®úÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"RMake method a static final constant or non-public and provide accessors if needed.(Þ÷‹ˆ
+…"squid:ClassVariableVisibilityCheck"RMake format a static final constant or non-public and provide accessors if needed.(®ïò—ùÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(‘¾öø
+4squid:S2386"Make this member "protected".(ÐÌŸÝ

@@ -1,0 +1,50 @@
+
+Q"squid:SwitchLastCaseIsDefaultCheck¹""Add a default case to this switch.(Á¹ù
+ssquid:S1192À"VDefine a constant instead of duplicating this literal "è¯·å¡«å†™æµ‹è¯„æ•°æ®" 4 times.(¹ÑıÌùÿÿÿÿ
+xsquid:S1192Y"\Define a constant instead of duplicating this literal "ç”¨æˆ·å·²å‚åŠ è¿‡è¯¥æµ‹è¯„" 8 times.(õõ¹ùùÿÿÿÿ
+asquid:S1192u"JDefine a constant instead of duplicating this literal "questions" 7 times.(…¤Ù½
+hsquid:S11926"LDefine a constant instead of duplicating this literal "req_params" 10 times.(ÇŠšüÿÿÿÿ
+esquid:S1192½"HDefine a constant instead of duplicating this literal "answers" 4 times.(‰‚³úÿÿÿÿ
+vsquid:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(€±Áüÿÿÿÿ
+vsquid:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¬æÒùÿÿÿÿ
+vsquid:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¬æÒùÿÿÿÿ
+qsquid:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÀ‰÷
+Esquid:S1199»"-Extract this nested code block into a method.(¤©‚ë
+Jsquid:S1199Ñ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Esquid:S1199ê"-Extract this nested code block into a method.(–óëˆ
+Jsquid:S1199ù"-Extract this nested code block into a method.(ÙƒÛ–ûÿÿÿÿ
+}squid:S4144ø"`Update this method so that its implementation is not identical to "examQuestions_3" on line 136.(ôÃüÿÿÿÿ
+jsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(›Ò¿
+ksquid:S00100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©àŒÿÿÿÿÿ
+fsquid:S00100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™óõ
+lsquid:S00100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹–Øƒùÿÿÿÿ
+lsquid:S00100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁƒÚúÿÿÿÿ
+gsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ§» 
+gsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜©Ç
+lsquid:S00100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÃüÿÿÿÿ
+lsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öå·³ıÿÿÿÿ
+nsquid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+nsquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+nsquid:S00117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠšüÿÿÿÿ
+osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€±Áüÿÿÿÿ
+osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¬æÒùÿÿÿÿ
+osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¬æÒùÿÿÿÿ
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÀ‰÷
+?squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¦"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S1155Û">Use isEmpty() to check whether the collection is empty or not.(é¨à…ùÿÿÿÿ

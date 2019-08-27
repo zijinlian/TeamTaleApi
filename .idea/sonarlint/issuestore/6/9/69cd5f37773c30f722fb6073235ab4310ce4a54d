@@ -1,0 +1,16 @@
+
+Tsquid:S1197C"8Move the array designator from the variable to the type.(ÆõÅ¡ûÿÿÿÿ
+?squid:S1068"(Remove this unused "host" private field.(ŸÎãì
+Dsquid:S1068"-Remove this unused "isOpenLog" private field.(ŒÚòŒ
+Usquid:S3516?"9Refactor this method to not always return the same value.(šÄªÿúÿÿÿÿ
+gsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(–é¬Æşÿÿÿÿ
+gsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(ôƒ‰’ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(¼ËÀí
+bsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(‚”Œ
+bsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(ö…´û
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùÌÒ¡ûÿÿÿÿ
+@squid:S1481D")Remove this unused "name" local variable.(¹·ş¸
+Vsquid:CallToDeprecatedMethodZ".Remove this use of "decode"; it is deprecated.(€‰à
+Osquid:S1854F"8Remove this useless assignment to local variable "name".(”İ÷
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸÎãì
+nsquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ç‹­øÿÿÿÿ

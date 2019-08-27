@@ -1,0 +1,9 @@
+
+csquid:S00112:"FDefine and throw a dedicated exception instead of using a generic one.(ç¶áõúÿÿÿÿ
+csquid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(ç¶áõúÿÿÿÿ
+Vsquid:S18549":Remove this useless assignment to local variable "result".(€Ñö“üÿÿÿÿ
+Vsquid:S1854O":Remove this useless assignment to local variable "result".(€Ñö“üÿÿÿÿ
+?squid:S11485"#Use a logger to log this exception.(•ÅÁžþÿÿÿÿ
+?squid:S11488"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148K"#Use a logger to log this exception.(•ÅÁžþÿÿÿÿ
+?squid:S1148N"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

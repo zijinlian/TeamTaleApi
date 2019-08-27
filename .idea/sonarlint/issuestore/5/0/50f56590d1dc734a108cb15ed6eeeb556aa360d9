@@ -1,0 +1,26 @@
+
+nsquid:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(²ûåûúÿÿÿÿ
+Xsquid:CallToDeprecatedMethod;"0Remove this use of "toString"; it is deprecated.(©ÆÎ¨
+]squid:CallToDeprecatedMethod<"0Remove this use of "toString"; it is deprecated.(þÌˆ“úÿÿÿÿ
+]squid:CallToDeprecatedMethod="0Remove this use of "toString"; it is deprecated.(ÿÁ®Ýøÿÿÿÿ
+]squid:CallToDeprecatedMethod>"0Remove this use of "toString"; it is deprecated.(ãîûúÿÿÿÿÿ
+]squid:CallToDeprecatedMethod?"0Remove this use of "toString"; it is deprecated.(áñ»üÿÿÿÿ
+Xsquid:CallToDeprecatedMethod@"0Remove this use of "toString"; it is deprecated.(Å™Óù
+Wsquid:CallToDeprecatedMethodA"0Remove this use of "toString"; it is deprecated.(ÌùÔ	
+]squid:CallToDeprecatedMethodB"0Remove this use of "toString"; it is deprecated.(ÿõ»îøÿÿÿÿ
+]squid:CallToDeprecatedMethodC"0Remove this use of "toString"; it is deprecated.(¸âÜÁþÿÿÿÿ
+]squid:CallToDeprecatedMethodD"0Remove this use of "toString"; it is deprecated.(»ÐÔùÿÿÿÿ
+]squid:CallToDeprecatedMethodE"0Remove this use of "toString"; it is deprecated.(©É“üÿÿÿÿ
+]squid:CallToDeprecatedMethodF"0Remove this use of "toString"; it is deprecated.(×¾ˆºýÿÿÿÿ
+]squid:CallToDeprecatedMethodG"0Remove this use of "toString"; it is deprecated.(ä‚±îþÿÿÿÿ
+Xsquid:CallToDeprecatedMethodH"0Remove this use of "toString"; it is deprecated.(•‘áá
+]squid:CallToDeprecatedMethodI"0Remove this use of "toString"; it is deprecated.(Ì€îüùÿÿÿÿ
+Xsquid:CallToDeprecatedMethodJ"0Remove this use of "toString"; it is deprecated.(áì‰Œ
+]squid:CallToDeprecatedMethodK"0Remove this use of "toString"; it is deprecated.(ÿÿ¦±üÿÿÿÿ
+]squid:CallToDeprecatedMethodL"0Remove this use of "toString"; it is deprecated.(…á¡šøÿÿÿÿ
+Xsquid:CallToDeprecatedMethodM"0Remove this use of "toString"; it is deprecated.(é’æÙ
+Xsquid:CallToDeprecatedMethodN"0Remove this use of "toString"; it is deprecated.(ï’ëÕ
+Xsquid:CallToDeprecatedMethodO"0Remove this use of "toString"; it is deprecated.(î™Ö
+csquid:S00112o"FDefine and throw a dedicated exception instead of using a generic one.(Þúå±úÿÿÿÿ
+?squid:S1148n"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Zsquid:S11557">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ

@@ -1,0 +1,25 @@
+
+[squid:S37256"?Replace this with a call to the "toFile().isDirectory()" method(Þêœ­øÿÿÿÿ
+isquid:S20953"MUse try-with-resources or close this "DirectoryStream" in a "finally" clause.(¡ÈÊŽÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+bsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(øòô
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ú“÷ú
+bsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(Ä›¢Ò
+gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(¿‹±òýÿÿÿÿ
+gsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(¿‹±òýÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í©ýÂ
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÍÎÉ 
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ƒ­”žùÿÿÿÿ
+T
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ÞÆ­Ûþÿÿÿÿ
+Qsquid:S1141G"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+isquid:S37760"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(÷“þ»
+[squid:S2147^"DCombine this catch with the one at line 92, which has the same body.(¯žáè
+[squid:S2147`"DCombine this catch with the one at line 92, which has the same body.(Å¡ß
+?squid:S1148]"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148_"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148g"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

@@ -1,0 +1,37 @@
+
+~squid:S2178î"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(­–¨ó
+esquid:S1192O"IDefine a constant instead of duplicating this literal "MANCOUNT" 4 times.(ñ×¬øÿÿÿÿ
+csquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(ğ²áÀ
+hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ØÛ¯ıÿÿÿÿ
+rsquid:S1488m"[Immediately return this expression instead of assigning it to the temporary variable "sql".(¦ÓŠ‘
+Gsquid:S1481@"0Remove this unused "ac_criteria" local variable.(¨—¯½
+Fsquid:S1481Ì")Remove this unused "imgs" local variable.(ºÒ•äşÿÿÿÿ
+Gsquid:S1172º"*Remove this unused method parameter "res".(±ì›Ûşÿÿÿÿ
+Bsquid:S1172ÿ"*Remove this unused method parameter "res".(—¿÷
+csquid:S00112a"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+dsquid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+dsquid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+dsquid:S00112É"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+dsquid:S00112ö"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+dsquid:S00112‰"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+dsquid:S00112­"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+dsquid:S00112â"FDefine and throw a dedicated exception instead of using a generic one.(Şúå±úÿÿÿÿ
+Vsquid:S1854@"?Remove this useless assignment to local variable "ac_criteria".(¨—¯½
+isquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨—¯½
+isquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şıØø
+isquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡™îù
+jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şıØø
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡™îù
+jsquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‹ôè
+osquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğâƒøÿÿÿÿ
+?squid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148È"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S1155«">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+Vsquid:S1155Â">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+[squid:S1155à">Use isEmpty() to check whether the collection is empty or not.(¦¦úûÿÿÿÿ
